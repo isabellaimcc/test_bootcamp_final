@@ -1,2 +1,3 @@
-# test_bootcamp_final
-final for nyu data bootcamp
+# predicting skateboard sales
+
+This is my final project (so so so on)... (Executive Summary)
